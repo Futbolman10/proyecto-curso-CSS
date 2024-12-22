@@ -1,0 +1,27 @@
+.conteiner{
+    display: flex;
+    justify-content: center;
+}
+
+table{
+    border-collapse: collapse;
+    border: 3px solid grey;
+    letter-spacing: 1px;
+    font-size: 1.2rem;
+}
+
+th{
+    border: 3px solid grey;
+    padding: 5px;
+    background-color: #FF4C4C;
+}
+
+td{
+    border: 3px solid grey;
+    padding: 5px;
+    text-align: center;
+}
+
+tr:hover{
+    background-color: #72BF78;
+}

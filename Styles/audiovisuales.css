@@ -1,0 +1,20 @@
+.video {
+    float: left;
+    width: auto;
+    margin-top: 30px;
+    margin-left: 65px;
+    padding: 23.5px;
+}
+
+.centrado{
+    display: flex;
+    justify-content: center;
+}
+
+.galeria{
+    height: 315px;
+    width: 560px;
+    margin-top: 30px;
+    padding: 23.5px;
+}
+
